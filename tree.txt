@@ -1,0 +1,47 @@
+{
+    "att0": {
+        "PURPLE": {
+            "att2": {
+                "DIP": {
+                    "att1": {
+                        "LARGE": {
+                            "att3": {
+                                "ADULT": "F", 
+                                "CHILD": ""
+                            }
+                        }, 
+                        "SMALL": "F"
+                    }
+                }, 
+                "STRETCH": {
+                    "att3": {
+                        "ADULT": {
+                            "att1": {
+                                "F": "F", 
+                                "T": "T"
+                            }
+                        }, 
+                        "CHILD": "F"
+                    }
+                }
+            }
+        }, 
+        "YELLOW": {
+            "att1": {
+                "LARGE": {
+                    "att2": {
+                        "DIP": "F", 
+                        "STRETCH": {
+                            "att3": {
+                                "ADULT": "T", 
+                                "CHILD": "F"
+                            }
+                        }
+                    }
+                }, 
+                "SMALL": "T"
+            }
+        }
+    }
+}
+The pass rate is 0.875
